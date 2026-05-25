@@ -28,7 +28,7 @@ transport: 'Společná autobusem od Bohémy'
 accomodation: ''
 food: ''
 leader: 'Jan Drábek'
-note: "Spí se v tělocvičně - vlastní spacák a karimatku (polšťářek, špunty, mišáka do uší alternativně dle potřeby).\r\nVečer půjdeme někam společně na jídlo, tj. peníze s sebou."
+note: "Spí se v tělocvičně - vlastní spacák a karimatku (polšťářek, špunty do uší, mišáka a vše, co si unesete).\r\nPodle síly a zájmu, výlet na trojmezí ČR x SK a Polsko.\r\nVečer půjdeme někam společně na jídlo, tj. peníze s sebou."
 return: ''
 price: ''
 program: ''
@@ -37,7 +37,8 @@ signups: ''
 gps: '49.52678, 18.75952'
 ---
 
-Spí se v tělocvičně - vlastní spacák a karimatku (polšťářek, špunty, mišáka do uší alternativně dle potřeby).
+Spí se v tělocvičně - vlastní spacák a karimatku (polšťářek, špunty do uší, mišáka a vše, co si unesete).
+Podle síly a zájmu, výlet na trojmezí ČR x SK a Polsko.
 Večer půjdeme někam společně na jídlo, tj. peníze s sebou.
 * **sraz**: 8:00 Bohéma
 * **doprava**: Společná autobusem od Bohémy

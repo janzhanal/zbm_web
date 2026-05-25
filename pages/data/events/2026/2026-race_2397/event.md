@@ -15,5 +15,23 @@ date: '2026-02-08'
 import:
     type: members
     time: 1770579005
+place: Mířkov
+meetTime: ''
+meetPlace: ''
+eventTypeDescription: ''
+startTime: ''
+map: ''
+terrain: ''
+transport: ''
+accomodation: ''
+food: ''
+leader: ''
+note: '**ubytování** - na postelích Kemp Vranov u Stříbra https://www.kempvranov.cz/ (chatky a pokoje). Max počet postelí - v pátek 28, v sobotu 32 (+ 1 pokoj řidič).'
+return: ''
+price: ''
+program: ''
+thingsToTake: ''
+signups: ''
 ---
 
+**ubytování** - na postelích Kemp Vranov u Stříbra https://www.kempvranov.cz/ (chatky a pokoje). Max počet postelí - v pátek 28, v sobotu 32 (+ 1 pokoj řidič).

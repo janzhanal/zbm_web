@@ -38,6 +38,8 @@ program: ''
 thingsToTake: ''
 signups: ''
 gps: '49.06956, 16.85633'
+hasStartlist: true
+hasResults: true
 ---
 
 * **sraz**: 8:15 Bohéma (před Janáčkovým divadlem)

@@ -16,5 +16,27 @@ date: '2026-02-08'
 import:
     type: members
     time: 1770579005
+hasStartlist: true
+meetTime: '8:30'
+meetPlace: 'Kr. Pole, nádraží'
+eventTypeDescription: ''
+startTime: ''
+map: ''
+terrain: ''
+transport: autobusem
+accomodation: ''
+food: ''
+leader: Standa
+note: 'ubytování v tělocvičně (spacák, karimatka)'
+return: ''
+price: ''
+program: ''
+thingsToTake: ''
+signups: ''
+gps: '49.84016, 16.38610'
+hasResults: true
 ---
 
+ubytování v tělocvičně (spacák, karimatka)
+* **sraz**: 8:30 Kr. Pole, nádraží
+* **doprava**: autobusem
