@@ -35,7 +35,7 @@ Všechny důležité kontakty najdete na <a href="./kontakty"> vlastní stránce
 Aktuální stav je on-line v „Přihláškovém systému".
 
 ### Členské příspěvky a dary oddílu
-- Zasílejte výhradně bezhotovostně na účet u Raiffeisenbank 4067843369/5500, v.s. xxxx (xxxx = registrační číslo).
+- Zasílejte výhradně bezhotovostně na účet u Raiffeisenbank 4067843369/5500, vs. xxxx (xxxx = registrační číslo).
 - Do poznámky vždy připište: "Členské příspěvky", případně "Dar".
 - V případě, že chcete přispět oddílu darem (který lze odečíst ze základu daně při ročním zúčtování daně z příjmu), kontaktujte předem Honzu (predseda@zabiny.club). Darovaná částka nesmí být nižší než 1 000,– Kč. Maximální možnost odečtu ze základu daně je 15%.
 
@@ -56,7 +56,7 @@ Náklady na použití vlastního auta na soustředění se budou proplácet form
 
 #### Podmínky proplacení cestovného
 - do 5 dnů po akci si vystavte ve své režii [cestovní příkaz](https://docs.google.com/spreadsheets/d/16YeSxXnkchyskXz2GXUETHdQtAGSv8k2/edit?usp=sharing&ouid=105448721499210837265&rtpof=true&sd=true) na základě konzultace - pokynů od vedoucího akce a zaříďte si **svépomocí** podpis vedoucího akce
-- jediná přijatelná forma podpisu je digitální podoba ([návod ja na něj](https://docs.google.com/document/d/1PY41ifxWNva8jTSg3VRJnio8HDJn3en1aD9_Mp-XBkw/edit?usp=sharing))
+- jediná přijatelná forma podpisu je digitální podoba ([návod jak na něj](https://docs.google.com/document/d/1PY41ifxWNva8jTSg3VRJnio8HDJn3en1aD9_Mp-XBkw/edit?usp=sharing))
 - správně vyplněný a podepsaný cestovní příkaz (**Vámi + vedoucím akce**) odešlete na email faktury@zabiny.club, kde bude zpracován a předán k proplacení
 - proplacení bude provedeno odesláním platby na Váš bankovní účet (v případě že si v průběhu času změníte účet, upozorněte na to v cestovním příkaze červeným zvýrazněním - podbarvením čísla účtu)
 - při nedodržení lhůty a postupu, nebude cestovní příkaz proplacen
@@ -145,7 +145,7 @@ Alešovi prosím posílejte rovnou čú., vs, částku a link na oris se členy 
 
 
 ### Dohlášky 
-doržujte prosím data přihlášek a pokud možno se na závody nepřihlašujte individuálně, ale vždy prostřednictvím oddílu:
+dodržujte prosím data přihlášek a pokud možno se na závody nepřihlašujte individuálně, ale vždy prostřednictvím oddílu:
 
 1. Je-li možné se na závod dohlásit ještě přes ORIS, kontaktujte Honzu Drábka (e-mailem, telefonicky)
 2. Po uzavření přihlášek pořadateli, kontaktujte pořadatele (v kopii pošlete informaci o dohlášce Honzu Drábkovi)
@@ -199,7 +199,7 @@ V letošním roce pořádáme 3 závody Jihomoravské ligy a Finále ligy škol 
 - ztráty a nálezy
 
 ### Emailové skupiny
-Emailové skupiny slouží pro pro hromadné rozesílání emailů. Při odeslání na adresu emailové skupiny, se poslaný mail rozešle všem lidem zaregistrovaným v dané skupině. Existuje více skupin, pokud potřebuješ něco sdělit ostatním členům mailem a myslíš si, že skupina je to nejlepší, prosím kontaktuj členy vedení. Aktuálně používáme primárně pro distribuci oficiálních informací pro všechny (členská schůze apod). Dále pro info rodičům menších dětí - program, soustředění...
+Emailové skupiny slouží pro hromadné rozesílání emailů. Při odeslání na adresu emailové skupiny, se poslaný mail rozešle všem lidem zaregistrovaným v dané skupině. Existuje více skupin, pokud potřebuješ něco sdělit ostatním členům mailem a myslíš si, že skupina je to nejlepší, prosím kontaktuj členy vedení. Aktuálně používáme primárně pro distribuci oficiálních informací pro všechny (členská schůze apod). Dále pro info rodičům menších dětí - program, soustředění...
 
 ### Discord
 V tuto chvíli hlavní komunikační kanál pro interní věci.  
