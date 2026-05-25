@@ -191,31 +191,20 @@ V letošním roce pořádáme 3 závody Jihomoravské ligy a Finále ligy škol 
 - Do konce sezóny 2023 jsme dávali fotky na [Rajče](https://skzabovresky.rajce.idnes.cz/)
 
 ---
-## Emailová a Facebooková skupina <a name="zabiny"></a>
+## Discord a emailové skupiny
 - informace k pořádání
 - soupisky na štafety
 - diskuze k oddílovém oblečení
 - pozvánky na další závody
 - ztráty a nálezy
-- _a další.._
 
-### Emailová skupina
-Emailová skupina **zabiny@googlegroups.com** slouží pro pro hromadné rozesílání emailů. Při odeslání na adresu emailové skupiny, se poslaný mail rozešle všem lidem zaregistrovaným v této skupině. Pro zaregistrování do skupiny, přijímání a posílání mailů není potřeba mít google účet. Pokud chceš, aby ti neuniklo nic z klubového dění a zajímáš se o informace, které již nepatří na web, doporučujeme se přidat.
-<form action="https://groups.google.com/forum/#!forum/zabiny/join" target="_blank">
-<button>Přihlásit se do skupiny Žabiny</button>
-</form>
-Klikněte na tlačítko, zadejte email a odešlete žádost o připojení ke skupině. Žádost je poslána administrátorovi skupiny, ten ji potvrdí a potom vám přijde oznámení o úspěšné registraci adresy do skupiny. 
- 
-Hromadné emaily všem členům skupiny můžete následně zasílat na adresu  _zabiny@googlegroups.com_
+### Emailové skupiny
+Emailové skupiny slouží pro pro hromadné rozesílání emailů. Při odeslání na adresu emailové skupiny, se poslaný mail rozešle všem lidem zaregistrovaným v dané skupině. Existuje více skupin, pokud potřebuješ něco sdělit ostatním členům mailem a myslíš si, že skupina je to nejlepší, prosím kontaktuj členy vedení. Aktuálně používáme primárně pro distribuci oficiálních informací pro všechny (členská schůze apod). Dále pro info rodičům menších dětí - program, soustředění...
 
-Pokud by jste chtěli skupinu opustit, stačí zaslat prázdný email na _zabiny+unsubscribe@googlegroups.com_ 
-
-### Facebook
-Další komunikační kanál, který používáme, je privátní skupina na facebooku.  
-Zde je prostor pro nezávazné diskuze, fotky a vše co už se nevejde ani do mailu.
-<form action="https://www.facebook.com/groups/124140560991571" target="_blank">
-<button>Přidat se na Facebooku</button>
-</form>
+### Discord
+V tuto chvíli hlavní komunikační kanál pro interní věci.  
+Zde je prostor pro nezávazné diskuze, fotky a vše ostatní, co nechceme dát na stránky. Navíc velmi snadno umožňuje spustit i videokonferenci (třeba když stavíte trénink a v 11 večer potřebujete poradit s tím, jak správně udělat sudou-lichou)
+Pro pozvánku, pokud ji zatím nemáte, prosím kontaktujte vedení, či správce (Otakar Hirš, Klára Barnatová)
 
 ---
 ## Sociální sítě <a name="socsite"></a>
